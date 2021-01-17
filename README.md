@@ -22,7 +22,8 @@ I may not be that good at coding (I just know some Python and some C/C++), but I
 - ⚡ Fun fact: I sneeze a lot, but you didn't have to know that 
 
 ![GitHub metrics](https://metrics.lecoq.io/infinitygamer404)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=infinitygamer404&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=infinitygamer404&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinitygamer404&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Me in other places:
 
