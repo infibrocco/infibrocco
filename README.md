@@ -30,5 +30,5 @@ I may not be that good at coding (I just know some Python and some C/C++), but I
 ### Me in other places:
 
 - Reddit: [infinitygamer404](https://reddit.com/u/infinitygamer404)
-- Discord: TheXtremeCrafter#2452
+- Discord: TheXtremeCrafter#5177
 - Xbox Live: iRobot127
