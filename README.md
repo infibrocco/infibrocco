@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 I am just another normal person who likes to play Minecraft and Terraria among other games. I also like using Linux and dabbling in some open source projects.
 I may not be that good at coding (I just know some Python and some C/C++), but I try my best and hope I improve in the future.
-- ⚡ Fun fact: I sneeze a lot, but you didn't have to know that 
+- ⚡ Fun fact: ~~I sneeze a lot, but you didn't have to know that~~ Yay! My sinusitis seems to have died down, now I don't sneeze that much.
+
+#### Notice: I won't be able to use my phone or laptop until my SSC exam (2023) is over, so don't expect to see me online until after 2023 march or something
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/infinitygamer404) -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=infinitygamer404&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
