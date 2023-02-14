@@ -17,11 +17,14 @@ Here are some ideas to get you started:
 
 ### About Me
 
-I am just another normal person who likes to code a little . I also like using Linux and dabbling in some open source projects.
-I may not be that good at coding (I just know some Python and some C/C++), but I try my best and hope I improve in the future.
-- ⚡ Fun fact: ~~I sneeze a lot, but you didn't have to know that~~ Yay! My sinusitis seems to have died down, now I don't sneeze that much.
+I am just another normal person who likes to code a little.
+I only code a little as a hobby. (lots of Python, some C/C++ and some JS)
+I yearn for a programming job
 
-#### Notice: I won't be able to use my phone or laptop until my SSC exam (2023) is over, so don't expect to see me online until after 2023 march or something
+
+- ⚡ Fun fact: ~~I sneeze a lot, but you didn't have to know that~~ Yay! My sinusitis seems to have died down, now I don't sneeze that much.
+- I'm an introverted and lonely kid who doesn't have many friends. I also haven't played any sports even as a small kid because running in fields triggered my sinusitis and made me sneeze all day.
+- 👓 I've been wearing glasses since kindergarten. My first pair of glasses were Harry Potter styler ones but now i wear square frames.
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/infinitygamer404) -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=infinitygamer404&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
