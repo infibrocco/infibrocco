@@ -26,9 +26,9 @@ I yearn for a programming job
 - I'm an introverted and lonely kid who doesn't have many friends. I also haven't played any sports even as a small kid because running in fields triggered my sinusitis and made me sneeze all day.
 - 👓 I've been wearing glasses since kindergarten. My first pair of glasses were Harry Potter styler ones but now i wear square frames.
 
-<!-- ![GitHub metrics](https://metrics.lecoq.io/infinitygamer404) -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=infinitygamer404&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinitygamer404&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![GitHub metrics](https://metrics.lecoq.io/viridfelis) -->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=viridfelis&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viridfelis&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Me in other places:
 
