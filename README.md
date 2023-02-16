@@ -22,7 +22,8 @@ I only code a little as a hobby. (lots of Python, some C/C++ and some JS)
 I yearn for a programming job
 
 
-- ⚡ Fun fact: ~~I sneeze a lot, but you didn't have to know that~~ Yay! My sinusitis seems to have died down, now I don't sneeze that much.
+- ⚡ Fun fact: ~~I sneeze a lot, but you didn't have to know that~~ I only occasionally sneeze all day now.
+- 💚 I love green stuff. And broccoli 🥦
 - I'm an introverted and lonely kid who doesn't have many friends. I also haven't played any sports even as a small kid because running in fields triggered my sinusitis and made me sneeze all day.
 - 👓 I've been wearing glasses since kindergarten. My first pair of glasses were Harry Potter styler ones but now i wear square frames.
 
@@ -32,6 +33,6 @@ I yearn for a programming job
 
 ### Me in other places:
 
-- Reddit: [infinitygamer404](https://reddit.com/u/infinitygamer404)
+- <img src="https://raw.githubusercontent.com/VectorLogoZone/vectorlogozone/main/www/logos/reddit/reddit-tile.svg" width=20></img>: [infinitygamer404](https://reddit.com/u/infinitygamer404)
 - Discord: TheXtremeCrafter#5177
 - Xbox Live: iRobot127
