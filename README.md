@@ -25,7 +25,7 @@ I yearn for a programming job
 - ⚡ Fun fact: ~~I sneeze a lot, but you didn't have to know that~~ I only occasionally sneeze all day now.
 - 💚 I love green stuff. And broccoli 🥦
 - I'm an introverted and lonely kid who doesn't have many friends. I also haven't played any sports even as a small kid because running in fields triggered my sinusitis and made me sneeze all day.
-- 👓 I've been wearing glasses since kindergarten. My first pair of glasses were Harry Potter styler ones but now i wear square frames.
+- 👓 I've been wearing glasses since kindergarten. My first pair of glasses were Harry Potter styled ones but nowadays, I wear square frames.
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/infibrocco) -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=infibrocco&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -33,6 +33,6 @@ I yearn for a programming job
 
 ### Me in other places:
 
-- <img src="https://raw.githubusercontent.com/VectorLogoZone/vectorlogozone/main/www/logos/reddit/reddit-tile.svg" width=20></img>: [infinitygamer404](https://reddit.com/u/infinitygamer404)
-- Discord: TheXtremeCrafter#5177
-- Xbox Live: iRobot127
+- [<img src="https://github.com/VectorLogoZone/vectorlogozone/raw/main/www/logos/reddit/reddit-tile.svg" width=20></img>](https://reddit.com/): [infinitygamer404](https://reddit.com/u/infinitygamer404)
+- [<img src="https://github.com/VectorLogoZone/vectorlogozone/raw/main/www/logos/discordapp/discordapp-tile.svg" width=20></img>](https://discord.com/): TheXtremeCrafter#5177
+- [<img src="https://github.com/VectorLogoZone/vectorlogozone/raw/main/www/logos/xbox/xbox-icon.svg" width=20></img>](https://xbox.com): iRobot127
