@@ -34,5 +34,4 @@ I yearn for a programming job
 ### Me in other places:
 
 - [<img src="https://github.com/VectorLogoZone/vectorlogozone/raw/main/www/logos/reddit/reddit-tile.svg" width=20></img>](https://reddit.com/): [infinitygamer404](https://reddit.com/u/infinitygamer404)
-- [<img src="https://github.com/VectorLogoZone/vectorlogozone/raw/main/www/logos/discordapp/discordapp-tile.svg" width=20></img>](https://discord.com/): TheXtremeCrafter#5177
 - [<img src="https://github.com/VectorLogoZone/vectorlogozone/raw/main/www/logos/xbox/xbox-icon.svg" width=20></img>](https://xbox.com): iRobot127
